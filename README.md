@@ -1,7 +1,7 @@
 # BasicImageClassifier
-# Basic Image classifier in python (AI Programming)
+# Basic Image classifier through a customizable neural network in python (AI Programming)
 
-This is a basic Image classifier  In this implementation, the application is learning about flowers images.
+This is a basic Image classifier through a customizable neural network in python. In this implementation, the application is learning about flowers images.
 
 This is a script-based implementation.
 
